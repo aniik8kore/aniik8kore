@@ -1,11 +1,13 @@
-<h1 align="center">Hey, I'm Aniket Kore 👋</h1>
+<div align="center">
 
-<p align="center">
+<h1>Hey, I'm Aniket Kore 👋</h1>
+
+<p>
   <em>Turning raw data into business decisions</em><br/>
   BBA Graduate · Aspiring Data Analyst · Building in Public
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/aniketkore-5591b4246">
     <img src="https://img.shields.io/badge/LinkedIn-Aniket%20Kore-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -19,6 +21,8 @@
     <img src="https://komarev.com/ghpvc/?username=aniik8kore&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS" />
   </a>
 </p>
+
+</div>
 
 ---
 
@@ -34,7 +38,7 @@ WHERE name = 'Aniket Kore';
 |-------|-------|
 | 👤 **Name** | Aniket Kore |
 | 📍 **Location** | Sangli, Maharashtra 🇮🇳 |
-| 🎓 **Education** | BBA + MBA (Data Analytics) |
+| 🎓 **Education** | BBA — Business Administration |
 | 🎯 **Goal** | International Data Analyst / Business Analyst Role |
 | 🛠️ **Currently Building** | SQL Portfolio · Excel Dashboards · Power BI |
 | 💼 **Status** | Open to Internship & Junior Analyst Roles |
@@ -79,30 +83,6 @@ WHERE name = 'Aniket Kore';
 
 ---
 
-## 📂 Portfolio Projects
-
-### 🗄️ SQL Projects — [`Sql-Portfolio`](https://github.com/aniik8kore/Sql-Portfolio)
-
-| # | Project | Business Problem | Key Concepts | Status |
-|---|---------|-----------------|--------------|--------|
-| 01 | [🎓 Student Grades Tracker](https://github.com/aniik8kore/Sql-Portfolio/tree/main/project-1-student-grades) | Track & analyze student academic performance | `JOIN` `GROUP BY` `AVG` `COUNT` `Subquery` | ✅ Done |
-| 02 | [🛒 E-Commerce Sales Analysis](https://github.com/aniik8kore/Sql-Portfolio/tree/main/project-2-ecommerce-sales) | Revenue trends & product performance | `HAVING` `LEFT JOIN` `DATE_TRUNC` `RANK()` | ✅ Done |
-| 03 | [👥 HR Employee Analysis](https://github.com/aniik8kore/Sql-Portfolio/tree/main/project-3-hr-analysis) | Workforce insights & attrition patterns | `Window Functions` `CTEs` `Aggregations` | ✅ Done |
-| 04 | 🔜 Coming Soon | — | — | ⏳ Upcoming |
-| 05 | 🔜 Coming Soon | — | — | ⏳ Upcoming |
-
-### 📊 Excel Projects
-
-| # | Project | Highlights | Status |
-|---|---------|-----------|--------|
-| 01 | 📈 Sales Performance Dashboard | KPI Cards · Pivot Tables · Charts · Slicers | ✅ Done |
-| 02 | 🔜 Coming Soon | — | ⏳ Upcoming |
-
-### 📉 Power BI Projects
-> *Currently learning — first project coming soon!*
-
----
-
 ## 📈 Learning Roadmap
 
 | Phase | Topic | Progress |
@@ -123,8 +103,7 @@ WHERE name = 'Aniket Kore';
 
 | Degree | Institute | Period |
 |--------|-----------|--------|
-| MBA — Data Analytics | Shivaji University, Kolhapur | 2023 – 2025 |
-| BBA — Business Administration | Swami Vivekanand College, Kolhapur | Completed |
+| BBA — Business Administration | Swami Vivekanand College, Kolhapur | 2022-2025 |
 
 ---
 
@@ -137,20 +116,22 @@ WHERE name = 'Aniket Kore';
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Live GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniik8kore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniik8kore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=ffffff" height="150" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aniik8kore&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=FF6B35&currStreakLabel=00B4D8" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=aniik8kore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniik8kore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=ffffff" height="150" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniik8kore&theme=react-dark&bg_color=0D1117&color=00B4D8&line=00B4D8&point=ffffff&hide_border=true" />
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=aniik8kore&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=FF6B35&currStreakLabel=00B4D8" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniik8kore&theme=react-dark&bg_color=0D1117&color=00B4D8&line=00B4D8&point=ffffff&hide_border=true" />
+
+</div>
 
 ---
 
@@ -164,6 +145,6 @@ WHERE name = 'Aniket Kore';
 
 ---
 
-<p align="center">
+<div align="center">
   <em>⚡ Built with consistency, curiosity & coffee ☕ | Open to Internship & Junior Analyst Roles 🚀</em>
-</p>
+</div>
